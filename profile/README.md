@@ -1,4 +1,8 @@
-<h1 align="center">Minteeble</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/minteeble/.github/main/media/minteelogo.png" height="100" title="hover text">
+</p>
+
+## Minteeble
 
 Minteeble is a top player in the blockchain development industry, providing high-quality services in smart contract development, NFT projects, and back-end and front-end solutions for crypto projects.
 
